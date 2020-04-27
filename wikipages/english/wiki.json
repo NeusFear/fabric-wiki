@@ -1,0 +1,18 @@
+{
+	"categories": [
+        {
+			"name": "biomes",
+			"pages": [
+				"creating_a_biome",
+				"some_other_thing"
+			]
+		},
+		{
+			"name": "commands",
+			"pages": [
+				"creating_a_command",
+				"some_other_thing2"
+			]
+		}
+	]
+}
