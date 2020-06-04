@@ -13,6 +13,11 @@ line breaks matter!
 #### another heafing again
 ##### a final heading
 
+|test|test2|test3|
+|:-|:-:|-:|
+|hi|hi2|hi3|
+|hi4|hi5|hi6|
+
 ```java
 public static void test(boolean foo) {
     boolean bar = !foo;
