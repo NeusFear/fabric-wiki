@@ -18,6 +18,12 @@ line breaks matter!
 |hi|hi2|hi3|
 |hi4|hi5|hi6|
 
+works without a header too
+
+|:-|:-:|-:|
+|hi|hi2|hi3|
+|hi4|hi5|hi6|
+
 ```java
 public static void test(boolean foo) {
     boolean bar = !foo;
