@@ -7,3 +7,10 @@ and here
 # Another section may be here
 with it's own type of text
 line breaks matter!
+
+```java
+public static void test(boolean foo) {
+    boolean bar = !foo;
+    return bar;
+}
+```
